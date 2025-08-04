@@ -39,7 +39,7 @@ const Footer = () => {
             </p>
             <ul className="flex items-center gap-2">
               <a
-                href="https://www.youtube.com/@reactjsBD"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
               >
